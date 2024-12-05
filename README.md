@@ -1,7 +1,7 @@
 # CMPINF0010 Final Project: The Best Neighborhood in Pittsburgh
 This repository evaluates Pittsburgh neighborhoods using datasets on `income`, `fire incidents`, and `arrests`, providing a combined scoring system to identify the best neighborhood based on multiple criteria.
 ## Team Name
-- Neighborhood Navigators
+- Neighborhood Navigators (Group #45)
 ## Members
 - Stanley Teng (stt48@pitt.edu)
 - Ifemi Olojo-Kosoko (ifemi.olojo-kosoko@pitt.edu)
